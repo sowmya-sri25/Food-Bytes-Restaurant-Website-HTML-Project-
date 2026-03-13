@@ -29,23 +29,6 @@ This project helped me understand how to structure a complete web page using cor
   * Audio & Video
   * Marquee animation
 
-## 📂 Project Structure
-Food-Bytes-Website
-│
-├── index.html
-├── breakfast.html
-├── lunch.html
-├── dinner.html
-│
-├── images
-│   ├── idly.jpg
-│   ├── dosa.jpg
-│   ├── poori.jpg
-│   ├── lunch.jpg
-│   ├── dinner1.jpg
-│   ├── dinner2.jpg
-│   └── restaurant.mp4
-
 ## 📖 Sections in the Website
 
 1. **Header Section**
